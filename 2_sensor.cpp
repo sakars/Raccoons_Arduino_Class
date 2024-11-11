@@ -1,6 +1,3 @@
-// This is just something we need to add at the top of our code
-// for our code to work
-#include <Arduino.h>
 
 const int LED_PIN = 12;
 const int TRIGGER_PIN = 11;

@@ -1,6 +1,3 @@
-// This is just something we need to add at the top of our code
-// for our code to work
-#include <Arduino.h>
 
 // The PIN number to which the LED is connected
 const int LED_PIN = 8;
